@@ -4,7 +4,7 @@
     "currentPage": "films.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 87,
-    "versionPublish": "4.6.6",
+    "versionPublish": "4.7.2",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1789,9 +1789,9 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-3-5-23-53-47-742817.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-4-1-4-22-34-448900.jpg",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/boG5EI-SwPc",
+                "videoUrl": "https://vimeo.com/270989644",
                 "image": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
                 "alt": "",
