@@ -2343,6 +2343,17 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-robwIuZYtY {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+.cid-robwIuZYtY H2 {
+  color: #e3f8d2;
+}
+.cid-robwIuZYtY .mbr-text,
+.cid-robwIuZYtY .mbr-section-btn {
+  color: #e3f8d2;
+}
 .cid-qMb7UJBeov .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -3199,6 +3210,25 @@ body {
 }
 .cid-qM3y9nIIJk .mbr-text {
   color: #e3f8d2;
+}
+.cid-robDCiTud7 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #36555b;
+}
+@media (min-width: 992px) {
+  .cid-robDCiTud7 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-robDCiTud7 .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-robDCiTud7 .mbr-text {
+  color: #e3f8d2;
+  text-align: left;
 }
 .cid-qMb7s1Vm03 {
   padding-top: 30px;
@@ -4127,6 +4157,32 @@ body {
 .cid-qM5YqXSfzr H2 {
   color: #ffffff;
 }
+.cid-qMzpggVl6r {
+  padding-top: 135px;
+  padding-bottom: 135px;
+}
+.cid-qMzpggVl6r h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qMzpggVl6r p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qMzpggVl6r .card-box {
+  padding-top: 2rem;
+}
+.cid-qMzpggVl6r .card-wrapper {
+  height: 100%;
+}
+.cid-qMzpggVl6r .card-title {
+  text-align: left;
+  color: #ffffff;
+}
+.cid-qMzpggVl6r P {
+  color: #cccccc;
+}
 .cid-qMb7RQiJEX .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -4499,32 +4555,6 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
-}
-.cid-qMzpggVl6r {
-  padding-top: 135px;
-  padding-bottom: 135px;
-}
-.cid-qMzpggVl6r h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-qMzpggVl6r p {
-  color: #767676;
-  text-align: left;
-}
-.cid-qMzpggVl6r .card-box {
-  padding-top: 2rem;
-}
-.cid-qMzpggVl6r .card-wrapper {
-  height: 100%;
-}
-.cid-qMzpggVl6r .card-title {
-  text-align: left;
-  color: #ffffff;
-}
-.cid-qMzpggVl6r P {
-  color: #cccccc;
 }
 .cid-qMb7RQiJEX .navbar {
   padding: .5rem 0;
