@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Vincent Entuna Portfolio",
-    "currentPage": "films.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 87,
     "versionPublish": "4.7.2",
@@ -69,7 +69,7 @@
               "background-color": "@bg-value"
             },
             "H1": {
-              "color": "#ffffff"
+              "color": "#ff3366"
             }
           },
           "_cid": "qrj0wiE5Ga",
@@ -704,23 +704,23 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-1-0-2-26-325954.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-5-23-57-6-944385.jpg",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/211070158",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-5-23-43-56-87148.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.facebook.com/christlinjoy/videos/10208831444498299/",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=tI2nRPRXFDE&feature=youtu.be",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
