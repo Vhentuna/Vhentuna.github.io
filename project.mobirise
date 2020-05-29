@@ -202,7 +202,7 @@
     "otheravs.html": {
       "settings": {
         "meta_descr": "",
-        "title": "Other AV's",
+        "title": "Other Audio-Visual Content",
         "order": 6
       },
       "components": [
@@ -762,7 +762,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "title": ""
               },
               {
@@ -815,6 +815,19 @@
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020429-2352562020-4-5-23-54-28.jpg",
+                "playVideo": true,
+                "videoUrl": " Video link https://youtu.be/NGLfSpkd8yc ",
+                "image": "@PROJECT_PATH@/assets/images/amon-film-logo-154x154-154x154.png",
+                "thumb": "@PROJECT_PATH@/assets/images/amon-film-logo-154x154-154x154-154x154.png",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": true,
                 "title": ""
               },
               {
