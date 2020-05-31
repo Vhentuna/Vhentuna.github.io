@@ -693,6 +693,19 @@
                 "title": ""
               },
               {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020431-219562020-4-0-21-16-54.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=ZFOsSqDXOzQ&t=56s",
+                "image": "@PROJECT_PATH@/assets/images/amon-film-logo-154x154.png",
+                "thumb": "@PROJECT_PATH@/assets/images/amon-film-logo-154x154-154x154.png",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": true,
+                "title": ""
+              },
+              {
                 "tags": "Creative",
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-1-0-1-14-405326.jpg",
                 "playVideo": true,
@@ -822,12 +835,12 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020429-2352562020-4-5-23-54-28.jpg",
                 "playVideo": true,
                 "videoUrl": " Video link https://youtu.be/NGLfSpkd8yc ",
-                "image": "@PROJECT_PATH@/assets/images/amon-film-logo-154x154-154x154.png",
-                "thumb": "@PROJECT_PATH@/assets/images/amon-film-logo-154x154-154x154-154x154.png",
+                "image": "@PROJECT_PATH@/assets/images/logo.png",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-800x450.png",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "title": ""
               },
               {
@@ -837,6 +850,19 @@
                 "videoUrl": "https://youtu.be/BKQjHRCNCBQ",
                 "image": "@PROJECT_PATH@/assets/images/logo-800x450.png",
                 "thumb": "@PROJECT_PATH@/assets/images/logo-800x450-800x450.png",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020431-219562020-4-0-21-13-5.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/-oIm1a8pErU",
+                "image": "@PROJECT_PATH@/assets/images/logo.png",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-800x450.png",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -1388,7 +1414,7 @@
             }
           },
           "_name": "gallery1",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#465052\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
           "_cid": "roa0bBtDaH",
           "_anchor": "gallery1-2g",
           "_protectedParams": [
@@ -1453,7 +1479,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "UP LIKAS ACLE: Kapaligiran at Lipunan",
+                "caption": "UP LIKAS ACLE: Kapaligiran at Lipunan 2019",
                 "active": false
               },
               {
@@ -1518,7 +1544,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Production Design Homework 1&nbsp;",
+                "caption": "UP LIKAS: Philippine Flag Days Commemoration 2019",
                 "active": false
               },
               {
@@ -1531,7 +1557,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Production Design Homework 1&nbsp;",
+                "caption": "UP LIKAS: Philippine Independence Day Commemoration 2019",
                 "active": false
               },
               {
@@ -1557,7 +1583,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "UP LIKAS Martial Law Comemoration",
+                "caption": "UP LIKAS Martial Law Comemoration 2019",
                 "active": false
               },
               {
@@ -1570,7 +1596,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "UP LIKAS Araw ng mga Bayani Commemoration<br>",
+                "caption": "UP LIKAS Araw ng mga Bayani Commemoration 2019<br>",
                 "active": false
               },
               {
@@ -1583,7 +1609,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "UP LIKAS Pride Day Commemoration",
+                "caption": "UP LIKAS Pride Day Commemoration 2019",
                 "active": false
               },
               {
@@ -1596,7 +1622,33 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "UP LIKAS <br>Ninoy Aquino Day",
+                "caption": "UP LIKAS <br>Ninoy Aquino Day 2019",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/nov-12-1800x1800.png",
+                "thumb": "@PROJECT_PATH@/assets/images/nov-12-1800x1800-800x800.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Negros Republic - US Protectorate &nbsp;Commemoration<br>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/pub-3-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/pub-3-2000x2000-800x800.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Vernacular Infographics",
                 "active": false
               }
             ]
@@ -2264,7 +2316,7 @@
     "academic.html": {
       "settings": {
         "meta_descr": "",
-        "title": "Academic",
+        "title": "Academic Writings",
         "order": 4
       },
       "components": [
