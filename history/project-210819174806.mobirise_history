@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Vincent Entuna Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "photographs.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 113,
     "versionPublish": "5.4.0",
@@ -83,8 +83,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true,
-    "mbrsiteDomain": "noz42qitrq"
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
