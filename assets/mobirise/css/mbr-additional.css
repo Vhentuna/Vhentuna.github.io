@@ -1627,6 +1627,9 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-roa0bBtDaH .mbr-gallery-item > div > span {
+  text-align: left;
+}
 .cid-sGxh2CczVE {
   padding-top: 120px;
   padding-bottom: 120px;
