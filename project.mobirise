@@ -84,7 +84,9 @@
     "cookiesAlert": false,
     "gdpr": false,
     "publishChangesOnly": true,
-    "mbrsiteDomain": "noz42qitrq"
+    "mbrsiteDomain": "noz42qitrq",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -692,7 +694,7 @@
             "gallery": [
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2021109-225462021-10-2-2-30-27.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2021109_225462021-10-2_2-30-27.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/4eczxXvgeWU",
                 "image": "@PROJECT_PATH@/assets/images/logo-800x450.png",
